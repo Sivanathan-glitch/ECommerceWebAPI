@@ -1,0 +1,13 @@
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\EcommerceAPI.exe
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\publish\web.config
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\appsettings.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\publish\appsettings.Development.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\publish\appsettings.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\publish\EcommerceAPI.deps.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\publish\EcommerceAPI.runtimeconfig.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\publish\EcommerceAPI.staticwebassets.endpoints.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\EcommerceAPI.dll
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\EcommerceAPI.deps.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\EcommerceAPI.runtimeconfig.json
+C:\Siva\Siva\Azure\AZ204\Practical session\EcommerceAPI\EcommerceAPI\bin\Release\net8.0\publish\EcommerceAPI.pdb
