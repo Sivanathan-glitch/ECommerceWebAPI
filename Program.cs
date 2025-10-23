@@ -20,5 +20,3 @@ app.MapGet("/products", () => new[]{
 });
 
 app.Run();
-
-//FEVM1
